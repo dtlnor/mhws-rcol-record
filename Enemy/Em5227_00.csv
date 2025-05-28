@@ -1,0 +1,5 @@
+RSID,PressLevel,RSName,RSKName,colName,colShapeName,GroupIndex,GName,GLayerIndex,GShapeNames,GJointNames1,GJointNames2,GShapeTypes,GShapeParams
+Em5227_00_Attack,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Em5227_00_Body,,,,,,,,,,,,,
+0,NO_MOVE(1),押し当たり,Push,Press,,0,,0,,Hip,Feather,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': 0.0}, 'end': {'x': 0.0, 'y': 0.0, 'z': 0.0}, 'radius': 0.1}"

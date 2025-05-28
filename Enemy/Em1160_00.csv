@@ -1,0 +1,16 @@
+RSID,PriorityFixed,IsSensorCollision,IsArrowFlipCollision,Parts,RSName,RSKName,colName,colShapeName,GroupIndex,GName,GLayerIndex,GShapeNames,GJointNames1,GJointNames2,GShapeTypes,GShapeParams,PressLevel,HitType,OwnRangeDegree,OwnRangeDegreeRiding,TargetRangeDegree,UniqueIndex,FreeInt,FreeFloat,Type
+Em1160_00_Attack,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Em1160_00_Body,,,,,,,,,,,,,,,,,,,,,,,,,
+100,PRIO_8(7),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': '00000000-0000-0000-0000-000000000000'}}",音反応,SoundReaction,音反応,,0,,0,,Spine1,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 8.0}",,,,,,,,,
+0,,,,,頭_押し,Push_Head,Zako,,3,,0,頭,Head,Neck0,Capsule,"{'start': {'x': 0.0, 'y': 5.960464e-08, 'z': 1.0}, 'end': {'x': -1.490116e-08, 'y': 0.0, 'z': 4.470348e-08}, 'radius': 1.8}",ENEMY_ZAKO_S(8),,,,,,,,
+1,,,,,胴_押し,Push_Body,Zako,,4,,0,胴,Neck0,Hip,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': -1.4}, 'end': {'x': 0.0, 'y': 0.0, 'z': 0.9000001}, 'radius': 2.8}",ENEMY_ZAKO_S(8),,,,,,,,
+2,,,,,尻尾_押し,Push_Tail,Zako,,5,,0,尻尾,Hip,Tail7,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': -0.9000001}, 'end': {'x': 0.0, 'y': 0.0, 'z': 1.7}, 'radius': 2.2}",ENEMY_ZAKO_S(8),,,,,,,,
+3,,,,,敵同士_押し,Push_EM,Zako,,6,,0,胴,Neck0,Hip,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': 1.788139e-07}, 'end': {'x': 0.0, 'y': 5.960464e-08, 'z': 6.109476e-07}, 'radius': 2.8}",ENEMY_ZAKO_S(8),,,,,,,,
+4,PRIO_10(5),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': 'e74ca49e-50b6-468a-9094-82f1eee6dc16'}}",頭,Head,頭,,1,,0,頭,Head,Neck2,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': 1.3}, 'end': {'x': 0.0, 'y': 0.0, 'z': -0.7}, 'radius': 1.9}",,,,,,,,,
+5,PRIO_8(7),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': '3169cbc5-3fae-4305-a6d0-f65cd3d3729e'}}",胴,Body,胴,||,2,,0,||,Neck0|Hip|Tail3,Hip|Tail3|Tail7,Capsule|Capsule|Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': -1.1}, 'end': {'x': 0.0, 'y': 0.0, 'z': 0.9000001}, 'radius': 2.8}|{'start': {'x': 0.0, 'y': 0.0, 'z': -0.7}, 'end': {'x': 0.0, 'y': 0.0, 'z': 0.6}, 'radius': 2.0}|{'start': {'x': 0.0, 'y': 0.0, 'z': -0.4}, 'end': {'x': 0.0, 'y': 0.0, 'z': 1.7}, 'radius': 2.4}",,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Em1160_00_Sensor,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,,,剥ぎ取り,Hagitori,ActBtnParam,,0,,0,剥ぎ取りアタリ,Neck2,Tail5,Capsule,"{'start': {'x': 0.0, 'y': 0.0, 'z': 0.0}, 'end': {'x': 0.0, 'y': 0.0, 'z': 0.0}, 'radius': 4.5}",,POS_ONLY(0),0.0,NULL,0.0,PARTS_01(2),0.0,0.0,
+200,,,,,転倒センサー（対PL）,DownSensorPLPut,SensorParamEm,,1,,0,,,,,,,,,,,,,,CLIBMABLE_DIE(3)
+101,,,,,センサー当たり,SensorReceiver,,,2,,0,,Spine1,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 5.0}",,,,,,,,,

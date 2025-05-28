@@ -1,0 +1,8 @@
+RSID,PriorityFixed,IsSensorCollision,IsArrowFlipCollision,Parts,RSName,RSKName,colName,colShapeName,GroupIndex,GName,GLayerIndex,GShapeNames,GJointNames1,GJointNames2,GShapeTypes,GShapeParams
+Em5226_00_Attack,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Em5226_00_Body,,,,,,,,,,,,,,,,
+0,PRIO_8(7),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': '00000000-0000-0000-0000-000000000000'}}",ダメージ,Damage,Body,,0,,0,,Hip,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 0.2}"
+,,,,,,,,,,,,,,,,
+Em5226_00_Sensor,,,,,,,,,,,,,,,,
+0,,,,,蹴り飛ばす判定,Kick,,,0,,0,,Hip,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 0.3}"

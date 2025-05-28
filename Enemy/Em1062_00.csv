@@ -1,0 +1,12 @@
+RSID,PriorityFixed,IsSensorCollision,IsArrowFlipCollision,Parts,RSName,RSKName,colName,colShapeName,GroupIndex,GName,GLayerIndex,GShapeNames,GJointNames1,GJointNames2,GShapeTypes,GShapeParams,PressLevel,HitType,OwnRangeDegree,OwnRangeDegreeRiding,TargetRangeDegree,UniqueIndex,FreeInt,FreeFloat,Type
+Em1062_00_Attack,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Em1062_00_Body,,,,,,,,,,,,,,,,,,,,,,,,,
+0,PRIO_8(7),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': 'c30af49d-a5e4-4689-9a0d-b2403c3a828e'}}",ダメージ_全体,,ダメージ_全体,,2,,0,,root,root,Capsule,"{'start': {'x': 0.0, 'y': 0.5, 'z': 0.0}, 'end': {'x': 0.0, 'y': 0.8000001, 'z': 0.0}, 'radius': 0.7}",,,,,,,,,
+2,,,,,押しアタリ（対PL）,,押し,,1,,0,,root,root,Box,"{'Coord': {'m00': 1.0, 'm01': 0.0, 'm02': 0.0, 'm03': 0.0, 'm10': 0.0, 'm11': 1.0, 'm12': 0.0, 'm13': 0.0, 'm20': 0.0, 'm21': -0.0, 'm22': 1.0, 'm23': 0.0, 'm30': 0.0, 'm31': 0.8000001, 'm32': 0.0, 'm33': 1.0}, 'Extent': {'x': 0.7, 'y': 0.90000004, 'z': 0.7}}",NO_MOVE(1),,,,,,,,
+3,,,,,押しアタリ（対PL以外）,,押し,,0,,0,,root,root,Capsule,"{'start': {'x': 0.0, 'y': 0.3, 'z': 0.0}, 'end': {'x': 0.0, 'y': 1.0, 'z': 0.0}, 'radius': 0.45}",NO_MOVE(1),,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Em1062_00_Sensor,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,,,剥ぎ取り,Hagitori,ActBtnParam,,0,,0,,,,,,,POS_ONLY(0),0.0,NULL,0.0,PARTS_01(2),0.0,0.0,
+200,,,,,転倒センサー（対PL）,DownSensorPLPut,SensorParamEm,,1,,0,,,,,,,,,,,,,,CLIBMABLE_DIE(3)
+101,,,,,センサー当たり,SensorReceiver,,,2,,0,,,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 1.0}",,,,,,,,,

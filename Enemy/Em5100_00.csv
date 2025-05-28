@@ -1,0 +1,8 @@
+RSID,PriorityFixed,IsSensorCollision,IsArrowFlipCollision,Parts,RSName,RSKName,colName,colShapeName,GroupIndex,GName,GLayerIndex,GShapeNames,GJointNames1,GJointNames2,GShapeTypes,GShapeParams,HitType,OwnRangeDegree,OwnRangeDegreeRiding,TargetRangeDegree,UniqueIndex,FreeInt,FreeFloat
+Em5100_00_Attack,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Em5100_00_Body,,,,,,,,,,,,,,,,,,,,,,,
+0,PRIO_8(7),False,False,"{'app.col_user_data.DamageParamEm.cParts': {'_Category': '[0]PARTS', '_PartsDataGuid': 'c8fa8613-b194-0700-16a9-feb81bd634d7'}}",ダメージ,Damage,体,,0,,0,,,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 0.5}",,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Em5100_00_Sensor,,,,,,,,,,,,,,,,,,,,,,,
+0,,,,,ボタンアタリ,Sensor,ActBtnParam,,1,,0,,,,Sphere,"{'x': 0.0, 'y': 0.0, 'z': 0.0, 'radius': 1.6000001}",POS_ONLY(0),0.0,NULL,0.0,PARTS_00(1),0,0.0
