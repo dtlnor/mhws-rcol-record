@@ -17,21 +17,21 @@ STRUCT__FinishSpinCount__Max,6.0
 JumpChargeJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 4.0, 'z': 2.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
 ChargeJumpJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 6.0, 'z': 3.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
 SlidingSwingJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 6.0, 'z': 4.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
-SlidingSlashJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 6.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
+SlidingSlashJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 5.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.9}"
 ClimbSlashJump,"{'JumpVelocity': {'x': 0.0, 'y': 5.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
 SlidingParam,"{'MaxTransRate': 2.8, 'MinTransRate': 1.2, 'Time': 3.0, 'TurnSpeed': 30.0}"
 SlidingTurnSpeed,70.0
 SlidingMaxDeg,100.0
-SlidingJudgeTime,0.5
+SlidingJudgeTime,0.2
 SlidingSlashMotSpeedLv1,0.95
 SlidingSlashMotSpeedLv2,1.125
 SlidingSlashMotSpeedLv3,1.3
 SlidingSlashInertialFriction,75.0
 SlidingSlashInertialKeepTime,0.0
 SuperChargeTimeLv2,0.7
-SuperChargeTimeLv3,1.6
+SuperChargeTimeLv3,1.5
 SuperChargeAttackRate,"[1.0, 1.0]"
 SuperChargeMoveRate,1.0
 StepUpWallDashSlashMaxDeg,30.0
-HitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 889520128, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 910688257, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187393, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
-SuccessHitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 935591937, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 950730752, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187392, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+HitStopCurve,"{'Keys': [{'value': 0.0, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 0.0, 'Time': 0.313720703125, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 0.392578125, 'CurveType': 1, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 1.5, 'CurveType': 1, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+SuccessHitStopCurve,"{'Keys': [{'value': 0.0, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 0.0, 'Time': 0.4853515625, 'CurveType': 1, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 0.58349609375, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 1.5, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"

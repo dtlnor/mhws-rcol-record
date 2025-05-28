@@ -46,14 +46,14 @@ KyokushaAimGroundRayOfsUp,6.0
 KyokushaAimGroundRayOfsDown,20.0
 KyokushaHeight,15.0
 KyokushaChildFallTime,0.5
-BottleParamData[0]CLOSE,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[1]STRONG,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[2]PENETRATE,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[3]PARALYSE,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[4]POISON,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[5]SLEEP,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[6]BLAST,"{'Gauge': 30.0, 'SetNum': 10}"
-BottleParamData[7]STAMINA,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[0]CLOSE(1),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[1]STRONG(2),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[2]PENETRATE(3),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[3]PARALYSE(4),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[4]POISON(5),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[5]SLEEP(6),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[6]BLAST(7),"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[7]STAMINA(8),"{'Gauge': 30.0, 'SetNum': 10}"
 QuickShotBottleEffectiveRate,1.0
 CloseBottleRangeRate,0.6
 CloseBottleGravityRate,3.0
@@ -71,9 +71,9 @@ MiniTsugiyaNum,"[2, 3, 4, 5]"
 MiniTsugiyaInterval,0.4
 MiniTsugiya_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}]"
 MultiLockonNum,4
-MultiLockonParam,"{'MaxDetectionDist': 25.0, 'MaxDetectionDeg': 12.0, 'MaxInScreenDeg': 30.0, 'LockOnDistanceRate': {'Keys': [{'value': 2.5, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1207959552, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}, 'BaseFOV': 33.0, 'NoLockOnTime': 0.0, 'FirstTargetAddTime': 0.6, 'LockOnTime': 0.0, 'LockOnLvUpTime': 1.0, 'TargetAddTime': 1.2, 'TsugiyaLockOnTime': 0.0, 'TsugiyaLockOnLvUpTime': 1.0, 'TsugiyaTargetAddTime': 0.0}"
+MultiLockonParam,"{'MaxDetectionDist': 25.0, 'MaxDetectionDeg': 12.0, 'MaxInScreenDeg': 30.0, 'LockOnDistanceRate': {'Keys': [{'value': 2.5, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 8.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}, 'BaseFOV': 33.0, 'NoLockOnTime': 0.0, 'FirstTargetAddTime': 0.6, 'LockOnTime': 0.0, 'LockOnLvUpTime': 1.0, 'TargetAddTime': 1.2, 'TsugiyaLockOnTime': 0.0, 'TsugiyaLockOnLvUpTime': 1.0, 'TsugiyaTargetAddTime': 0.0}"
 MultiLockon_Height,40.0
-MultiLockonHeightRate,"{'Keys': [{'value': 0.5, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+MultiLockonHeightRate,"{'Keys': [{'value': 0.5, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
 MultiLockon_DegRange,90.0
 MultiLockonStartRateOfs,0.01
 MultiLockonMaxSpeedOfs,2.0

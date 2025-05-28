@@ -1,7 +1,7 @@
 ﻿Param,Value
 MusicSkillToneTable,GameDesign/Player/ActionData/Wp05/UserData/Wp05MusicSkillToneTable.user
 MusicSkillToneColorTable,GameDesign/Player/ActionData/Wp05/UserData/Wp05MusicSkillToneColorTable.user
-Press_Time,0.005
+Press_Time,0.2
 MusicSkillRangeRadius,50.0
 MusicTurnSpeed,20.0
 MusicImpactOffsetZ,2.0
@@ -12,7 +12,7 @@ MusicStart_U_Mot_Time,0.0
 MusicStart_F_Mot_Time,0.0
 MusicAttackToDodgeIgnoreResetTime,0.5
 SpHealRadius,50.0
-SpHealValue,50.0
+SpHealValue,75.0
 ParryHitMotSpeedRate,1.5
 MaxHibkikiAmmo,3
 OutRangeActiveTime,5.0
@@ -27,7 +27,7 @@ HibkikiBlastTimer,"[0.0, 0.18, 0.36]"
 HibkikiBlastHueMasterLv1ActiveRange,1.0
 HibkikiBlastHueMasterLvActiveRange,2.0
 HibikiShellColorSetting,GameDesign/Player/ActionData/Wp05/GlobalParam/Wp05HibikiShellColorSetting.user
-HibikiLagTime,0.05
+HibikiLagTime,0.005
 HighFreq_Blow_ShellEpvTagHashName,{'Hash': 316035102}
 HighFreq_Slash_ShellEpvTagHashName,{'Hash': 528574129}
 HighFreq_Elem_Fire_ShellEpvTagHashName,{'Hash': 3688034738}

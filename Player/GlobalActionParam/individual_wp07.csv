@@ -6,34 +6,34 @@ MoveShotAimAdjustParam,"{'InterpolateSpeed': 20.0, 'FadeInSpeed': 10.0, 'FadeOut
 ShotOffset,"{'x': 0.0, 'y': 0.1, 'z': 1.65, 'pad': 0.0}"
 GuardQuickReloadTime,0.5
 NormalShellTypeInfo:ShellNum,6
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 6.0, 'FireAttack': 6.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 7.0, 'FireAttack': 6.0}"
 NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[1],"{'Attack': 8.0, 'FireAttack': 7.0}"
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 10.0, 'FireAttack': 8.0}"
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 14.0, 'FireAttack': 9.0}"
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 17.0, 'FireAttack': 11.0}"
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 20.0, 'FireAttack': 13.0}"
-NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 23.0, 'FireAttack': 15.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 38.0, 'FireAttack': 21.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 9.0, 'FireAttack': 8.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 10.0, 'FireAttack': 9.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 11.0, 'FireAttack': 10.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 12.0, 'FireAttack': 11.0}"
+NormalShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 13.0, 'FireAttack': 12.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 39.0, 'FireAttack': 22.0}"
 NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[1],"{'Attack': 43.0, 'FireAttack': 24.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 48.0, 'FireAttack': 27.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 54.0, 'FireAttack': 30.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 60.0, 'FireAttack': 33.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 67.0, 'FireAttack': 36.0}"
-NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 74.0, 'FireAttack': 39.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 22.0, 'FireAttack': 17.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 47.0, 'FireAttack': 26.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 52.0, 'FireAttack': 29.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 57.0, 'FireAttack': 32.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 63.0, 'FireAttack': 35.0}"
+NormalShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 69.0, 'FireAttack': 38.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 23.0, 'FireAttack': 19.0}"
 NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[1],"{'Attack': 25.0, 'FireAttack': 21.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 28.0, 'FireAttack': 25.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 31.0, 'FireAttack': 30.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 36.0, 'FireAttack': 34.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 41.0, 'FireAttack': 38.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 46.0, 'FireAttack': 42.0}"
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[0],4.0
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[1],5.0
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 28.0, 'FireAttack': 23.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 31.0, 'FireAttack': 25.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 34.0, 'FireAttack': 27.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 37.0, 'FireAttack': 31.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 41.0, 'FireAttack': 34.0}"
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[0],5.0
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[1],6.0
 NormalShellTypeInfo:ShotAttackInfo:PileAttackList[2],7.0
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[3],9.0
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[4],12.0
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[5],14.0
-NormalShellTypeInfo:ShotAttackInfo:PileAttackList[6],16.0
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[3],8.0
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[4],9.0
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[5],10.0
+NormalShellTypeInfo:ShotAttackInfo:PileAttackList[6],11.0
 NormalShellTypeInfo:RyuugekiGauge_GainRate,1.0
 NormalShellTypeInfo:ChargeShot_AttackRate,1.8
 NormalShellTypeInfo:ChargeShot_MinChargeTime,0.4
@@ -42,7 +42,9 @@ NormalShellTypeInfo:ChargeShot_ChargeTime,0.4
 NormalShellTypeInfo:ChargeShot_Offset,0.5
 NormalShellTypeInfo:ChargeShot_MiddleMotCount,3
 NormalShellTypeInfo:ChargeShot_HeavyMotCount,5
-NormalShellTypeInfo:FullBurst_AttackRate,1.2
+NormalShellTypeInfo:FullBurst_AttackRate,1.4
+NormalShellTypeInfo:FullBurst_BF_AttackRate,1.25
+NormalShellTypeInfo:FullBurst_RBF_AttackRate,1.25
 NormalShellTypeInfo:FullBurstInfo:OffsetAngle,"{'x': -11.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 NormalShellTypeInfo:FullBurstInfo:ConstOffsetAngle,"{'x': -8.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 NormalShellTypeInfo:FullBurstInfo:DelayTime,0.04
@@ -61,34 +63,34 @@ NormalShellTypeInfo:Kireaji_FullBurst,1
 NormalShellTypeInfo:Kireaji_Ryuugeki,20
 NormalShellTypeInfo:Kireaji_Pile,5
 WideShellTypeInfo:ShellNum,2
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 14.0, 'FireAttack': 8.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 17.0, 'FireAttack': 9.0}"
 WideShellTypeInfo:ShotAttackInfo:AttackInfoList[1],"{'Attack': 19.0, 'FireAttack': 10.0}"
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 24.0, 'FireAttack': 12.0}"
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 30.0, 'FireAttack': 14.0}"
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 36.0, 'FireAttack': 16.0}"
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 42.0, 'FireAttack': 18.0}"
-WideShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 50.0, 'FireAttack': 20.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 46.0, 'FireAttack': 22.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 21.0, 'FireAttack': 11.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 23.0, 'FireAttack': 12.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 25.0, 'FireAttack': 13.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 27.0, 'FireAttack': 14.0}"
+WideShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 30.0, 'FireAttack': 15.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 46.0, 'FireAttack': 24.0}"
 WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[1],"{'Attack': 50.0, 'FireAttack': 26.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 54.0, 'FireAttack': 30.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 61.0, 'FireAttack': 34.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 68.0, 'FireAttack': 38.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 76.0, 'FireAttack': 42.0}"
-WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 84.0, 'FireAttack': 46.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 22.0, 'FireAttack': 17.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 55.0, 'FireAttack': 29.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 60.0, 'FireAttack': 32.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 66.0, 'FireAttack': 35.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 73.0, 'FireAttack': 38.0}"
+WideShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 80.0, 'FireAttack': 42.0}"
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 23.0, 'FireAttack': 19.0}"
 WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[1],"{'Attack': 25.0, 'FireAttack': 21.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 28.0, 'FireAttack': 25.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 31.0, 'FireAttack': 30.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 36.0, 'FireAttack': 34.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 41.0, 'FireAttack': 38.0}"
-WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 46.0, 'FireAttack': 42.0}"
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[0],4.0
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[1],5.0
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 27.0, 'FireAttack': 23.0}"
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 30.0, 'FireAttack': 25.0}"
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 33.0, 'FireAttack': 27.0}"
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 36.0, 'FireAttack': 30.0}"
+WideShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 40.0, 'FireAttack': 33.0}"
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[0],5.0
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[1],6.0
 WideShellTypeInfo:ShotAttackInfo:PileAttackList[2],7.0
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[3],9.0
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[4],12.0
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[5],14.0
-WideShellTypeInfo:ShotAttackInfo:PileAttackList[6],16.0
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[3],8.0
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[4],9.0
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[5],10.0
+WideShellTypeInfo:ShotAttackInfo:PileAttackList[6],11.0
 WideShellTypeInfo:RyuugekiGauge_GainRate,2.5
 WideShellTypeInfo:ChargeShot_AttackRate,1.8
 WideShellTypeInfo:ChargeShot_MinChargeTime,0.55
@@ -97,7 +99,9 @@ WideShellTypeInfo:ChargeShot_ChargeTime,0.55
 WideShellTypeInfo:ChargeShot_Offset,2.0
 WideShellTypeInfo:ChargeShot_MiddleMotCount,1
 WideShellTypeInfo:ChargeShot_HeavyMotCount,2
-WideShellTypeInfo:FullBurst_AttackRate,1.2
+WideShellTypeInfo:FullBurst_AttackRate,1.35
+WideShellTypeInfo:FullBurst_BF_AttackRate,1.05
+WideShellTypeInfo:FullBurst_RBF_AttackRate,1.05
 WideShellTypeInfo:FullBurstInfo:OffsetAngle,"{'x': -14.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 WideShellTypeInfo:FullBurstInfo:ConstOffsetAngle,"{'x': -38.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 WideShellTypeInfo:FullBurstInfo:DelayTime,0.1
@@ -116,34 +120,34 @@ WideShellTypeInfo:Kireaji_FullBurst,3
 WideShellTypeInfo:Kireaji_Ryuugeki,20
 WideShellTypeInfo:Kireaji_Pile,5
 LongShellTypeInfo:ShellNum,3
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 7.0, 'FireAttack': 13.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[0],"{'Attack': 10.0, 'FireAttack': 14.0}"
 LongShellTypeInfo:ShotAttackInfo:AttackInfoList[1],"{'Attack': 11.0, 'FireAttack': 15.0}"
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 14.0, 'FireAttack': 18.0}"
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 18.0, 'FireAttack': 22.0}"
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 21.0, 'FireAttack': 26.0}"
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 25.0, 'FireAttack': 30.0}"
-LongShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 29.0, 'FireAttack': 34.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 38.0, 'FireAttack': 21.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[2],"{'Attack': 12.0, 'FireAttack': 16.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[3],"{'Attack': 13.0, 'FireAttack': 17.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[4],"{'Attack': 14.0, 'FireAttack': 18.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[5],"{'Attack': 15.0, 'FireAttack': 19.0}"
+LongShellTypeInfo:ShotAttackInfo:AttackInfoList[6],"{'Attack': 16.0, 'FireAttack': 20.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[0],"{'Attack': 39.0, 'FireAttack': 22.0}"
 LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[1],"{'Attack': 43.0, 'FireAttack': 24.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 48.0, 'FireAttack': 27.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 54.0, 'FireAttack': 30.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 60.0, 'FireAttack': 33.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 67.0, 'FireAttack': 36.0}"
-LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 74.0, 'FireAttack': 39.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 32.0, 'FireAttack': 17.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[2],"{'Attack': 47.0, 'FireAttack': 26.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[3],"{'Attack': 52.0, 'FireAttack': 29.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[4],"{'Attack': 57.0, 'FireAttack': 32.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[5],"{'Attack': 63.0, 'FireAttack': 35.0}"
+LongShellTypeInfo:ShotAttackInfo:RyuugekiAttackInfoList[6],"{'Attack': 69.0, 'FireAttack': 38.0}"
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[0],"{'Attack': 32.0, 'FireAttack': 19.0}"
 LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[1],"{'Attack': 37.0, 'FireAttack': 21.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 42.0, 'FireAttack': 25.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 49.0, 'FireAttack': 30.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 56.0, 'FireAttack': 34.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 63.0, 'FireAttack': 38.0}"
-LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 70.0, 'FireAttack': 42.0}"
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[0],4.0
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[1],5.0
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[2],7.0
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[2],"{'Attack': 42.0, 'FireAttack': 23.0}"
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[3],"{'Attack': 49.0, 'FireAttack': 25.0}"
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[4],"{'Attack': 56.0, 'FireAttack': 27.0}"
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[5],"{'Attack': 63.0, 'FireAttack': 30.0}"
+LongShellTypeInfo:ShotAttackInfo:PileBlastAttackInfoList[6],"{'Attack': 70.0, 'FireAttack': 33.0}"
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[0],6.0
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[1],7.0
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[2],8.0
 LongShellTypeInfo:ShotAttackInfo:PileAttackList[3],9.0
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[4],12.0
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[5],14.0
-LongShellTypeInfo:ShotAttackInfo:PileAttackList[6],16.0
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[4],10.0
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[5],11.0
+LongShellTypeInfo:ShotAttackInfo:PileAttackList[6],12.0
 LongShellTypeInfo:RyuugekiGauge_GainRate,1.3
 LongShellTypeInfo:ChargeShot_AttackRate,1.8
 LongShellTypeInfo:ChargeShot_MinChargeTime,0.5
@@ -152,7 +156,9 @@ LongShellTypeInfo:ChargeShot_ChargeTime,0.5
 LongShellTypeInfo:ChargeShot_Offset,2.0
 LongShellTypeInfo:ChargeShot_MiddleMotCount,2
 LongShellTypeInfo:ChargeShot_HeavyMotCount,3
-LongShellTypeInfo:FullBurst_AttackRate,1.2
+LongShellTypeInfo:FullBurst_AttackRate,1.4
+LongShellTypeInfo:FullBurst_BF_AttackRate,1.1
+LongShellTypeInfo:FullBurst_RBF_AttackRate,1.1
 LongShellTypeInfo:FullBurstInfo:OffsetAngle,"{'x': -20.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 LongShellTypeInfo:FullBurstInfo:ConstOffsetAngle,"{'x': -13.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}"
 LongShellTypeInfo:FullBurstInfo:DelayTime,0.07
