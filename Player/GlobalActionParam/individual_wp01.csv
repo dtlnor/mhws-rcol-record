@@ -1,0 +1,12 @@
+﻿Param,Value
+AimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 2.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 0.8, 'ShoulderRate': 0.7, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': -15.0, 'ConstMoveDegY': -15.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+FlyAimAdjustParam,"{'InterpolateSpeed': 10.0, 'FadeInSpeed': 5.0, 'FadeOutSpeed': 3.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 0.9, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': -15.0, 'ConstMoveDegY': -15.0, 'LimitY': 65.0, 'LimitUpX': 60.0, 'LimitDownX': 50.0}"
+JustGuardMoveBeginInputLStickDeg,45.0
+BackStepBeginInputLStickDeg,135.0
+BackStepToUpperSlashLStickDeg,120.0
+EmStepJumpHeightOffset,1.5
+StepSlash_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 767461792}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.8}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.4}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.15}], 'FadeOutSpeed': 1.0}"
+SlidingParam,"{'MaxTransRate': 3.0, 'MinTransRate': 1.2, 'Time': 3.0, 'TurnSpeed': 30.0}"
+SlidingTurnSpeed,70.0
+ShieldChargeTime,0.4
+ShieldChargeOverTime,0.8

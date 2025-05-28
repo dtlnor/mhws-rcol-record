@@ -1,0 +1,23 @@
+﻿Param,Value
+ChargeParam,"{'Time': [0.0, 0.8, 1.55, 2.3], 'OverheatTime': 3.0, 'OverheatLevel': '[2]LV2'}"
+ChargeParam_Strong,"{'Time': [0.0, 0.8, 1.55, 2.3], 'OverheatTime': 3.0, 'OverheatLevel': '[2]LV2'}"
+ChargeParam_Spirit,"{'Time': [0.0, 0.8, 1.55, 2.3], 'OverheatTime': 3.0, 'OverheatLevel': '[2]LV2'}"
+ChargeParam_Fly,"{'Time': [0.0, 0.3, 1.1, 1.9], 'OverheatTime': 2.5, 'OverheatLevel': '[3]LV3'}"
+ChargeParam_Sliding,"{'Time': [0.0, 0.2, 0.7, 1.2], 'OverheatTime': 0.0, 'OverheatLevel': '[3]LV3'}"
+ChargeParam_Parry,"{'Time': [0.0, 0.6, 1.4, 2.0], 'OverheatTime': 2.5, 'OverheatLevel': '[3]LV3'}"
+ChargeParam_BattleRide,"{'Time': [0.0, 0.6, 1.4, 2.0], 'OverheatTime': -1.0, 'OverheatLevel': '[3]LV3'}"
+ChargeJustMotionOfsTime,0.38
+ChargeTurnLimitDegree,45.0
+ChargeTurnSpeed,90.0
+ChargeAttackTurnTime,0.5
+GuradAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 0.5, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 0.8, 'ShoulderRate': 0.6, 'Spine2Rate': 0.5, 'Spine1Rate': 0.4, 'Spine0Rate': 0.3, 'CogRate': 0.0, 'HipRate': 0.5, 'LFootRate': 0.3, 'RFootRate': 0.3, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 40.0, 'LimitUpX': 0.0, 'LimitDownX': 0.0}"
+GuardTurnSpeed,80.0
+TackleHyperArmorDamageReduceRate,0.3
+JustTackleHyperArmorDamageReduceRate,0.1
+SlidingParam,"{'MaxTransRate': 2.0, 'MinTransRate': 1.0, 'Time': 1.0, 'TurnSpeed': 10.0}"
+SlidingTurnSpeed,60.0
+AimHighCameraPitchDeg,12.0
+AimHighCameraPitchDeg_FlyEm,8.0
+PenetrateFrontInputDeg,60.0
+PenetrateBackInputDeg,60.0
+PenetrateRightInputDeg,45.0

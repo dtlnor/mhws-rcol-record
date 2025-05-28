@@ -1,0 +1,119 @@
+﻿Param,Value
+InsectActionID,"{'ActionID': 'GameDesign/Player/ActionData/Wp10/Action/Wp10Insect_ActionID.user', 'ExportGuid': '1b9d2270-9160-4d66-baf9-f1c595c378a5'}"
+InsectMCB,Motion/Player/WeaponGimmick/Wp10/Wp10Gimmick_mcb.user
+ExtractTimerRed,90.0
+ExtractTimerWhite,120.0
+ExtractTimerOrange,150.0
+ExtractTimerTripple,90.0
+AimAttackAddTrippleTime,30.0
+WhiteWalkMotSpeed,1.2
+OrangeDefRate,1.05
+OrangeFlinchFreeLve,2
+RedWhiteAtkRate,1.1
+OrangeWhiteDefRate,1.1
+TrippleAtkRate,1.15
+Green2Rate,1.5
+Green3Rate,1.8
+ExtractReduceReserveRate,1.0
+SelfJumpLeverDegFront,45.0
+SelfJumpLeverDegBack,155.0
+SelfJumpStaminaRecoverSpeedRate,0.5
+SelfJumpParamNormal,"{'Front': {'Step': {'JumpVelocity': {'x': 0.0, 'y': 3.0, 'z': 1.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': 0.0, 'y': 6.2, 'z': 2.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.8}}, 'Back': {'Step': {'JumpVelocity': {'x': 0.0, 'y': 2.5, 'z': -1.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.7}, 'Jump': {'JumpVelocity': {'x': 0.0, 'y': 5.0, 'z': -5.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.9}}, 'Left': {'Step': {'JumpVelocity': {'x': 1.5, 'y': 3.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': 2.5, 'y': 6.2, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.8}}, 'Right': {'Step': {'JumpVelocity': {'x': -1.5, 'y': 3.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': -2.5, 'y': 6.2, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.8}}}"
+SelfJumpParamWhite,"{'Front': {'Step': {'JumpVelocity': {'x': 0.0, 'y': 4.0, 'z': 1.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': 0.0, 'y': 9.0, 'z': 2.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.1}}, 'Back': {'Step': {'JumpVelocity': {'x': 0.0, 'y': 2.5, 'z': -1.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.7}, 'Jump': {'JumpVelocity': {'x': 0.0, 'y': 6.0, 'z': -6.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 0.9}}, 'Left': {'Step': {'JumpVelocity': {'x': 1.5, 'y': 4.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': 2.5, 'y': 9.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.1}}, 'Right': {'Step': {'JumpVelocity': {'x': -1.5, 'y': 4.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Jump': {'JumpVelocity': {'x': -2.5, 'y': 9.0, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.1}}}"
+AirDodgeLeverDegFront,45.0
+AirDodgeLeverDegBack,155.0
+AirDodgeParamNormal,"{'Front': {'JumpVelocity': {'x': 0.0, 'y': 5.2, 'z': 4.2, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Back': {'JumpVelocity': {'x': 0.0, 'y': 5.2, 'z': -4.2, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Left': {'JumpVelocity': {'x': 4.2, 'y': 5.2, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Right': {'JumpVelocity': {'x': -4.2, 'y': 5.2, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}}"
+AirDodgeParamWhite,"{'Front': {'JumpVelocity': {'x': 0.0, 'y': 5.5, 'z': 5.6, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Back': {'JumpVelocity': {'x': 0.0, 'y': 5.5, 'z': -5.6, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Left': {'JumpVelocity': {'x': 5.6, 'y': 5.5, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}, 'Right': {'JumpVelocity': {'x': -5.6, 'y': 5.5, 'z': 0.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}}"
+BatonJSlashSuperJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 4.0, 'z': 1.5, 'pad': 0.0}, 'Gravity': 9.0, 'GravityRate': 1.32}"
+BatonJMoveSlashJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 2.2, 'z': 6.0, 'pad': 0.0}, 'Gravity': 8.5, 'GravityRate': 1.0}"
+BatonJMoveSlashSuperJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 3.5, 'z': 5.0, 'pad': 0.0}, 'Gravity': 8.0, 'GravityRate': 0.7}"
+DiveAttackJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 5.0, 'z': 2.0, 'pad': 0.0}, 'Gravity': 11.0, 'GravityRate': 1.2}"
+DiveAttackFallParam,"{'JumpVelocity': {'x': 0.0, 'y': -5.0, 'z': 2.0, 'pad': 0.0}, 'Gravity': 15.0, 'GravityRate': 2.0}"
+DiveAtkInsectSpeedRate,2.0
+DiveAtkInsectOffset,"{'x': 0.0, 'y': -0.8, 'z': 3.0, 'pad': 0.0}"
+EnemyStepCountMax,3
+EnemyStepStaminaMin,1.0
+EnemyStepHeightMax,60.0
+EnemyStepJumpAttackRate1,1.1
+EnemyStepDiveAttackRate1,1.2
+EnemyStepJumpAttackRate2,1.3
+EnemyStepDiveAttackRate2,1.5
+AimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 3.0, 'FadeOutSpeed': 5.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 40.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+MazzleCorrect_MaxRange,20.0
+ChargePressTime,1.2
+ChargePressTime2,2.0
+AirChargePressTime,0.8
+AirChargePressTime2,1.3
+ChargeAttackRate,0.75
+HitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 889520128, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 910688257, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187393, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+SuccessHitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 935591937, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 950730752, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187392, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+AirHitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 889520128, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 910688257, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187393, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+AirSuccessHitStopCurve,"{'Keys': [{'value': 0.0, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 0.0, 'time_type': 935591937, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 950730752, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1040187392, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 1000.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+MoveSlashMinHorizontalInputDeg,60.0
+MoveSlashMaxHorizontalInputDeg,135.0
+InsectSlashAtkRate,1.1
+InsectStaminaMaxDefault,100.0
+InsectStaminaReduce,2.0
+InsectFightTogetherStamina,2.0
+InsectAttackPenetrateStamina,4.0
+InsectStaminaAddReserveRate,1.0
+InsectAttackMinStamina,2.0
+InsectFightTogetherMinStamina,4.0
+InsectBackStaminaRecover,20.0
+InsectGrowAttack,"[0.2, 0.25, 0.35, 0.4, 0.55, 0.6, 0.7, 0.75, 0.8, 0.85, 0.9, 1.0, 1.1, 1.15, 1.25, 1.35, 1.4, 1.45, 1.55, 1.7]"
+InsectGrowSpeed,"[6.5, 7.0, 8.0, 8.5, 9.5, 10.0, 11.0, 11.8, 13.0, 13.8, 15.0, 16.0, 18.0, 19.0, 21.0, 22.0, 24.0, 25.5, 27.5, 30.0]"
+InsectGrowGreenExtract,"[9.0, 10.0, 11.0, 12.0, 13.0, 14.0, 16.0, 18.0, 20.0, 22.0, 25.0, 28.0, 32.0, 36.0, 40.0, 42.0, 44.0, 46.0, 48.0, 50.0]"
+InsectGrowStaminaRecover,"[1.0, 1.0, 2.0, 2.0, 3.0, 3.0, 4.0, 4.0, 5.0, 5.0, 6.0, 6.0, 7.0, 7.0, 8.0, 8.0, 9.0, 9.0, 10.0, 10.0]"
+InsectGrowHealDust,"[5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0, 12.0, 13.0, 14.0, 15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0]"
+InsectGrowExplodeDust,"[15.0, 16.0, 17.0, 18.0, 19.0, 20.0, 21.0, 22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0, 30.0, 31.0, 32.0, 33.0, 35.0]"
+InsectGrowParalysisDust,"[20.0, 21.0, 22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0, 30.0, 31.0, 32.0, 33.0, 34.0, 35.0, 36.0, 37.0, 38.0, 39.0]"
+InsectGrowPoisonDust,"[22.0, 23.0, 24.0, 25.0, 26.0, 27.0, 28.0, 29.0, 30.0, 31.0, 32.0, 33.0, 34.0, 35.0, 36.0, 37.0, 38.0, 39.0, 40.0, 41.0]"
+InsectSkillFightTogetherAttrRate,1.2
+InsectSkillDustRate,1.5
+InsectSkillStaminaRecoverRate,2.0
+InsectSkillHealRate,1.5
+InsectSkillAttackChargeTime,0.4
+InsectAttackKeepInput,0.6
+InsectAttackDistanceMax,40.0
+InsectAttackOverMoveDistMax,5.0
+InsectAttackOverMoveDistRate,1.0
+InsectAttackDownMaxDeg,120.0
+InsectAttackEndMotDist,10.0
+InsectMoveArriveDist,0.1
+InsectMoveArriveDecelTime,0.2
+InsectTerrainHitCheckRayLengh,1.0
+InsectTerrainHitMaxDeg,135.0
+InsectHoverHeight,0.4
+InsectHoverFreq,3.5
+InsectAutoBackTime,3.0
+InsectPenetrateSpeedRate,1.0
+InsectPenetrateMaxHit,10
+InsectPorterRideBackTime,2.0
+ExplodeInsectAutoAttackDelay,3.0
+HealInsectAutoAttackDelay,5.0
+ParalysisInsectAutoAttackDelay,4.0
+PoisonInsectAutoAttackDelay,3.0
+InsectWanderCircleTime,1.0
+InsectWanderMaxSpeed,15.0
+InsectWanderOutside,1.8
+InsectWanderHeightRate,0.3
+InsectWanderVSpeed,5.0
+InsectAimBackTime,0.65
+InsectAimAttackDistance,10.0
+InsectAimAttackSpeed,40.0
+InsectTogetherFightOverDist,2.0
+InsectJumpSlashBackTime,1.5
+InsectCatchGestureBeforeTime,0.1
+InsectWpChangeOutParam,"{'EndPosOfs': {'x': 2.0, 'y': 4.0, 'z': 0.0, 'pad': 0.0}, 'CenterPosOfs': {'x': -1.5, 'y': 2.0, 'z': 0.0, 'pad': 0.0}, 'FlyTime': 0.8, 'FadeSpeed': 1.5}"
+InsectWpChangeInParam,"{'EndPosOfs': {'x': -4.0, 'y': 3.0, 'z': 0.0, 'pad': 0.0}, 'CenterPosOfs': {'x': -2.0, 'y': 2.0, 'z': 0.0, 'pad': 0.0}, 'FlyTime': 1.0, 'FadeSpeed': 3.0}"
+InsectWpShowCasePosOfs,"{'x': -0.15, 'y': 0.0, 'z': 0.0, 'pad': 0.0}"
+InsectWpShowCaseRotOfs,"{'x': 0.0, 'y': 180.0, 'z': 88.0, 'pad': 0.0}"
+GunShotModelChangeTime,0.8
+ColorFadeCurve,"{'Keys': [{'value': 0.0, 'time_type': 3, 'inNormal': 0, 'outNormal': 0}, {'value': 0.5, 'time_type': 1312817155, 'inNormal': 15564, 'outNormal': 15564}, {'value': 1.0, 'time_type': 1379926019, 'inNormal': 0, 'outNormal': 0}, {'value': 0.5, 'time_type': 1420820483, 'inNormal': 48332, 'outNormal': 48332}, {'value': 0.0, 'time_type': 1447034880, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 1.0, 'MinTime': 0.0, 'MaxTime': 100.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+ColorFadeTime,4.0
+AttrColorNone,"{'Light': {'R': 255, 'G': 206, 'B': 0, 'A': 255}, 'Dark': {'R': 20, 'G': 17, 'B': 5, 'A': 255}}"
+AttrColorFire,"{'Light': {'R': 255, 'G': 1, 'B': 11, 'A': 255}, 'Dark': {'R': 26, 'G': 0, 'B': 2, 'A': 255}}"
+AttrColorWater,"{'Light': {'R': 47, 'G': 69, 'B': 255, 'A': 255}, 'Dark': {'R': 5, 'G': 7, 'B': 26, 'A': 255}}"
+AttrColorElec,"{'Light': {'R': 1, 'G': 255, 'B': 229, 'A': 255}, 'Dark': {'R': 0, 'G': 26, 'B': 23, 'A': 255}}"
+AttrColorIce,"{'Light': {'R': 204, 'G': 234, 'B': 255, 'A': 255}, 'Dark': {'R': 21, 'G': 24, 'B': 26, 'A': 255}}"
+AttrColorDragon,"{'Light': {'R': 255, 'G': 1, 'B': 255, 'A': 255}, 'Dark': {'R': 26, 'G': 0, 'B': 26, 'A': 255}}"

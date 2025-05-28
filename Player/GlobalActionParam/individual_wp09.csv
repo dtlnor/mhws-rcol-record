@@ -1,0 +1,77 @@
+﻿Param,Value
+SwordAimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+SwordAimSlashAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 0.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+AxeAimSlashAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 0.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+AxeAimSlashSpinAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.7, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 45.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+SlidingParam,"{'MaxTransRate': 3.7, 'MinTransRate': 1.8, 'Time': 3.0, 'TurnSpeed': 30.0}"
+SlidingTurnSpeed,70.0
+AxeCallPorter_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 0.25}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.5}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.0}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
+Bin_ReloadNumS,3
+ShieldEnhance_MaxTime,200.0
+ShieldEnhance_Time,25.0
+ShieldEnhanceOverChargedBin_Time,40.0
+ButtonKeepTime_ChargeToShieldEnhance,0.3
+ShieldEnhance_ReserveTimeRate,1.0
+ShieldEnhance_GuardPowerAdd,10
+ShieldEnhance_AxeAttackRate,1.1
+ShieldEnhance_GPKireajiReduceRate,0.5
+ShieldEnhance_GrenadeAttackRate,1.2
+ShieldEnhance_GrenadeStunRate,1.2
+ShieldEnhance_GrenadeStaminaRate,1.1
+ShieldEnhance_ElementBinRate,1.3
+PowerGuardPower_S,24.0
+PowerGuardPower_M,49.0
+SwordEnhance_Time,90.0
+SwordEnhance_ReserveTimeRate,1.0
+SwordEnergyPoint_Max,100.0
+SwordEnergyPoint_ReloadS,30.0
+SwordEnergyPoint_ReloadL,46.0
+SwordEnergyPoint_OverHeat,72.0
+SwordEnergyPointAdd_GuardS,3.0
+SwordEnergyPointAdd_GuardM,3.0
+SwordEnergyPointAdd_GuardL,9.0
+SwordEnergyPointAdd_TechGuard,3.0
+SwordEnergyPointAdd_TechGuardM,9.0
+SwordEnergyPointAdd_GuardLaser,3.0
+AxeEnhance_Time,120.0
+AxeEnhance_ReserveTimeRate,1.0
+AxeSaw_HitStopTime,0.55
+AxeSaw_HitStopNoHitCheckTime,0.2
+AxeSaw_HitStopSpeedRate,0.04
+AxeSaw_HitStopSpeedRateFly,0.2
+AxeSaw_HitStopGravityRateFly,0.5
+STRUCT__AxeSaw_CameraLStickRotRate_Base,0.0
+STRUCT__AxeSaw_CameraLStickRotRate_Vertical,0.0
+Discharge_DelayTime,0.6
+Discharge_HitNum,2
+Discharge2_DelayTime,0.6
+Discharge2_HitNum,3
+SuperDischarge_TerrainCheckOfsUp,3.0
+SuperDischarge_TerrainCheckOfsDown,4.0
+SuperDischarge_Grenade_Timer,"[0.0, 0.15, 0.15, 0.15, 0.15]"
+SuperDischarge_Grenade_1_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.3, 'pad': 0.0}]"
+SuperDischarge_Grenade_2_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.3, 'pad': 0.0}, {'x': 0.0, 'y': 0.0, 'z': 5.0, 'pad': 0.0}]"
+SuperDischarge_Grenade_3_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.3, 'pad': 0.0}, {'x': -0.6, 'y': 0.0, 'z': 4.6, 'pad': 0.0}, {'x': 0.4, 'y': 0.0, 'z': 5.9, 'pad': 0.0}]"
+SuperDischarge_Grenade_4_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.3, 'pad': 0.0}, {'x': -0.6, 'y': 0.0, 'z': 4.6, 'pad': 0.0}, {'x': 0.4, 'y': 0.0, 'z': 5.9, 'pad': 0.0}, {'x': -0.1, 'y': 0.0, 'z': 7.2, 'pad': 0.0}]"
+SuperDischarge_Grenade_5_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.3, 'pad': 0.0}, {'x': -0.6, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': -0.1, 'y': 0.0, 'z': 5.7, 'pad': 0.0}, {'x': 0.5, 'y': 0.0, 'z': 6.9, 'pad': 0.0}, {'x': 0.0, 'y': 0.0, 'z': 8.1, 'pad': 0.0}]"
+SuperDischarge_Attr_1_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.0, 'pad': 0.0}]"
+SuperDischarge_Attr_1_Timer,[0.45]
+SuperDischarge_AttrPreEff_1_Timer,[0.0]
+SuperDischarge_Attr_2_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.0, 'pad': 0.0}, {'x': 0.0, 'y': 0.0, 'z': 4.5, 'pad': 0.0}]"
+SuperDischarge_Attr_2_Timer,"[0.45, 0.7]"
+SuperDischarge_AttrPreEff_2_Timer,"[0.0, 0.1]"
+SuperDischarge_Attr_3_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.0, 'pad': 0.0}, {'x': 1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': -1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}]"
+SuperDischarge_Attr_3_Timer,"[0.45, 0.7, 0.7]"
+SuperDischarge_AttrPreEff_3_Timer,"[0.0, 0.1, 0.1]"
+SuperDischarge_Attr_4_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.0, 'pad': 0.0}, {'x': 1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': -1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': 0.0, 'y': 0.0, 'z': 7.0, 'pad': 0.0}]"
+SuperDischarge_Attr_4_Timer,"[0.45, 0.7, 0.7, 0.7]"
+SuperDischarge_AttrPreEff_4_Timer,"[0.0, 0.1, 0.1, 0.2]"
+SuperDischarge_Attr_5_Offset,"[{'x': 0.0, 'y': 0.0, 'z': 3.0, 'pad': 0.0}, {'x': 1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': -1.2, 'y': 0.0, 'z': 4.5, 'pad': 0.0}, {'x': 2.5, 'y': 0.0, 'z': 7.0, 'pad': 0.0}, {'x': -2.5, 'y': 0.0, 'z': 7.0, 'pad': 0.0}]"
+SuperDischarge_Attr_5_Timer,"[0.45, 0.7, 0.7, 0.95, 0.95]"
+SuperDischarge_AttrPreEff_5_Timer,"[0.0, 0.1, 0.1, 0.2, 0.2]"
+Bin_Grenade_ShellEpvTagHashName,{'Hash': 100229705}
+Bin_Elem_Fire_ShellEpvTagHashName,{'Hash': 2418962089}
+Bin_Elem_Water_ShellEpvTagHashName,{'Hash': 2306077034}
+Bin_Elem_Elec_ShellEpvTagHashName,{'Hash': 2481527653}
+Bin_Elem_Ice_ShellEpvTagHashName,{'Hash': 2486050485}
+Bin_Elem_Dragon_ShellEpvTagHashName,{'Hash': 3386963963}

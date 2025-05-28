@@ -1,0 +1,39 @@
+﻿Param,Value
+AimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+KijinOff_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 0.25}, {'JointHash': {'Hash': 1345121450}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 2725057162}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.0}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
+AimKijinOn_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 0.25}, {'JointHash': {'Hash': 1345121450}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 2725057162}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.0}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
+KijinTurnSpeed,600.0
+KijinEnhancementEffectChangeTime,0.15
+KijinEnhancemenetReduceTime,90.0
+KijinEnhancemenetReduceReserveRate,1.0
+KijinEnhancemenetMotSpeed,1.03
+KijinRushGaugeReduce,0.025
+KijinDodgeGaugeReduce,0.1
+KijinChain1GaugeReduce,0.05
+KijinChain2GaugeReduce,0.1
+Ranbu1GaugeReduce,0.05
+Ranbu2GaugeReduce,0.1
+Ranbu3GaugeReduce,0.15
+MoveSlashMinHorizontalInputDeg,45.0
+MoveSlashMaxHorizontalInputDeg,120.0
+AirSpinJumpParam_Step,"{'JumpVelocity': {'x': 0.0, 'y': 4.0, 'z': 7.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.32}"
+AirSpinJumpParam_Fall,"{'JumpVelocity': {'x': 0.0, 'y': 4.0, 'z': 0.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.32}"
+AirSpinJumpParam_Sliding,"{'JumpVelocity': {'x': 0.0, 'y': 6.0, 'z': 7.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.32}"
+AirSpinJumpParam_KijinSliding,"{'JumpVelocity': {'x': 0.0, 'y': 8.0, 'z': 7.5, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.32}"
+AirSpinFinishJumpParam,"{'JumpVelocity': {'x': 0.0, 'y': 0.0, 'z': 4.0, 'pad': 0.0}, 'Gravity': 9.8, 'GravityRate': 1.0}"
+AirSpinLeverDeg_Step,45.0
+AirSpinLeverDeg_BackLimit,160.0
+AirSpinMotSpeed_Sliding,0.85
+SlidingParam,"{'MaxTransRate': 2.0, 'MinTransRate': 1.0, 'Time': 1.0, 'TurnSpeed': 10.0}"
+ConstSpinAdjust[0],"{'HitCount': 8, 'AttackAdjust': 0.5}"
+ConstSpinAdjust[1],"{'HitCount': 10, 'AttackAdjust': 0.3}"
+ConstSpinAdjust[2],"{'HitCount': 12, 'AttackAdjust': 0.15}"
+ConstSpinStartDistMax,10.0
+ASkill004JudgeTimeRate,1.2
+SkillDodgeJudgeTimeRate,"[1.05, 1.1, 1.15, 1.2, 1.25]"
+JustSuccessHATime,0.5
+JustSuccessBuffTime,24.0
+BuffJustDodgeRecover,"{'Recover1': 8.0, 'Recover2': 4.0, 'RecoverMin': 0.0}"
+JustSuccessAttackRate,1.2
+JustSuccessStatusRate,1.2
+BuffEffectChangeTime,0.15

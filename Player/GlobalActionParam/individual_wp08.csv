@@ -1,0 +1,70 @@
+﻿Param,Value
+AxeAimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+SwordDischargeAimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 3.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': -10.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 45.0, 'LimitDownX': 33.0}"
+AxeAimSlashAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+SwordAimSlashAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
+Transform_RequiredGauge,30.0
+Reload_GaugeValue,30.0
+SlashGaugeAutoRecoveryValue,3.0
+SlashGaugeAutoRecoveryInterval,2.0
+SlashGaugeAutoRecoveryReserveRate,1.0
+ParrySlashGaugeRecovery,30.0
+ParrySlashGaugeRecovery_S,15.0
+OnSwordAwakenSlashGaugeRecovery,30.0
+AxeEnhancedTime,45.0
+AxeEnhancedSlashGaugeGainRate,1.2
+AxeEnhancedAttackAdd,10.0
+AxeEnhancedReserveTimerRate,1.0
+SwordAwakeGaugeReduceValue,2.0
+SwordAwakeGaugeReduceInterval,4.0
+SwordAwakeGaugeReserveRate,1.0
+SwordAwakeTime,45.0
+SwordAwakeAddShellMaxNum,3
+SwordDischargeSwitchFinish_ShellHitNum,3
+SwordDischargeChargeSwitchFinish_ShellHitNum,3
+SwordDischargeChargeSwitchFinish_2_ShellHitNum,5
+SwordDischargeSwitchFinish_DelayTime,0.2
+SwordDischargeChargeSwitchFinish_DelayTime,0.01
+SwordDischargeChargeSwitchFinish_2_DelayTime,0.15
+SwordAwakeGaugeGainRate[0]POWER,0.666667
+SwordAwakeGaugeGainRate[1]ELEMENT,1.428571
+SwordAwakeGaugeGainRate[2]DRAGON,2.0
+SwordAwakeGaugeGainRate[3]STAMINA,1.428571
+SwordAwakeGaugeGainRate[4]PARALYSE,1.0
+SwordAwakeGaugeGainRate[5]POISON,2.0
+SwordDischargeConst_MaxBeginLength,10.0
+SwordCounterUseSlashGauge,15.0
+SwordCounterRecoverSlashGauge,10.0
+SwordJustCounterRecoverSlashGauge,15.0
+SwordJustCounterAddAwakeGauge,10.0
+SwordCounterHyperArmorDamageReduceRate,0.3
+SwordJustCounterHyperArmorDamageReduceRate,0.1
+Bin_Power_AttackRate,1.17
+Bin_Power_AwakeShellConditionRate,0.35
+Bin_Power_DischargeSwitchShellConditionRate,0.35
+Bin_Power_ShellEpvTagHashName,{'Hash': 2231135434}
+Bin_Element_ElementRate,1.45
+Bin_Element_AwakeShellElementRate,0.35
+Bin_Element_DischargeSwitchShellElementRate,0.35
+Bin_Elem_Fire_ShellEpvTagHashName,{'Hash': 2589505633}
+Bin_Elem_Water_ShellEpvTagHashName,{'Hash': 1294511772}
+Bin_Elem_Elec_ShellEpvTagHashName,{'Hash': 2223217119}
+Bin_Elem_Ice_ShellEpvTagHashName,{'Hash': 1663946602}
+Bin_Elem_Dragon_ShellEpvTagHashName,{'Hash': 2158828410}
+Bin_Stamina_StunDamage,5.0
+Bin_Stamina_DischargeStaminaRate,0.3
+Bin_Stamina_DischargeStunRate,0.3
+Bin_Stamina_AwakeShellStaminaRate,0.2
+Bin_Stamina_AwakeShellStunRate,0.2
+Bin_Stamina_DischargeSwitchShellStaminaRate,0.2
+Bin_Stamina_DischargeSwitchShellStunRate,0.2
+Bin_Stamina_ShellEpvTagHashName,{'Hash': 1493335731}
+Bin_Dragon_AwakeShellElementRate,0.35
+Bin_Dragon_DischargeSwitchShellElementRate,0.35
+Bin_Dragon_ShellEpvTagHashName,{'Hash': 1739133413}
+Bin_Poison_AwakeShellPoisonRate,0.35
+Bin_Poison_DischargeSwitchShellPoisonRate,0.35
+Bin_Poison_ShellEpvTagHashName,{'Hash': 1173780404}
+Bin_Paralyse_AwakeShellParalyseRate,0.35
+Bin_Paralyse_DischargeSwitchShellParalyseRate,0.35
+Bin_Paralyse_ShellEpvTagHashName,{'Hash': 2401397100}

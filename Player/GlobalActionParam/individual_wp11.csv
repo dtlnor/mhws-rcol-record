@@ -1,0 +1,110 @@
+﻿Param,Value
+GunnerCommonParam,GameDesign/Player/ActionData/Wp11/GlobalParam/Wp11GunnerCommonParam.user
+ChargeTimeLv2,1.0
+ChargeTimeLv3,2.0
+ChargeTimeLv4,3.0
+KyokushaChargeTimeLv2,0.8
+KyokushaChargeTimeLv3,1.5
+KyokushaChargeTimeLv4,2.0
+IdleChargeSpeedRate,1.5
+ShottingStaminaRecoverSpeedRate,0.3
+IdleStaminaRecoverSpeedRate,2.0
+Normal_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}]"
+NormalLv2_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+NormalLv3_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 1.0, 'y': -1.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.2, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+NormalLv4_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 1.0, 'y': -1.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.2, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+NormalHoming_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 5.0, 'y': -5.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -5.0, 'y': -5.0, 'pad1': 0.0, 'pad2': 0.0}]"
+QuickShot_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}]"
+QuickShotHoming_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}]"
+Gosha_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaLv2_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaLv3_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaLv4_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaHoming_ScatterList,"[{'x': 2.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 24.0, 'y': 2.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -2.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaRapid_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaRapidLv2_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaRapidLv3_ScatterList,"[{'x': 1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaRapidLv4_ScatterList,"[{'x': 1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': -0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+GoshaRapidHoming_ScatterList,"[{'x': 2.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 24.0, 'y': 2.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -2.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -12.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -24.0, 'y': -2.0, 'pad1': 0.0, 'pad2': 0.0}]"
+Jump_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 3.0, 'y': 3.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -3.0, 'y': 2.8, 'pad1': 0.0, 'pad2': 0.0}]"
+JumpLv2_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 3.0, 'y': 3.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -3.0, 'y': 2.8, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 6.0, 'pad1': 0.0, 'pad2': 0.0}]"
+JumpLv3_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 3.0, 'y': 3.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -3.0, 'y': 2.8, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 6.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': 6.2, 'pad1': 0.0, 'pad2': 0.0}]"
+JumpLv4_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 3.0, 'y': 3.2, 'pad1': 0.0, 'pad2': 0.0}, {'x': -3.0, 'y': 2.8, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 6.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': 6.2, 'pad1': 0.0, 'pad2': 0.0}]"
+JumpHoming_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 6.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 12.0, 'y': -2.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 18.0, 'y': -6.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -6.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}]"
+Twin_ScatterList,"[{'x': 1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 8.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 15.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -8.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -15.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+TwinHoming_ScatterList,"[{'x': 1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 8.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 15.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -1.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -8.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -15.0, 'y': -1.0, 'pad1': 0.0, 'pad2': 0.0}]"
+DashClimb_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 5.0, 'y': 5.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 10.0, 'y': 10.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 20.0, 'y': 20.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -5.0, 'y': 5.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -10.0, 'y': 10.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -20.0, 'y': 20.0, 'pad1': 0.0, 'pad2': 0.0}]"
+DashClimbHoming_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 5.0, 'y': 5.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 10.0, 'y': 10.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 20.0, 'y': 20.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 5.0, 'y': -5.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 10.0, 'y': -10.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 20.0, 'y': -20.0, 'pad1': 0.0, 'pad2': 0.0}]"
+KyokushaAimInputTime,0.2
+KyokushaAimSpeed,10.0
+KyokushaAimCameraSpeedRate,1.0
+KyokushaAimRadius,"[1.5, 2.0, 2.5, 3.0]"
+KyokushaAimMaxDistance,14.0
+KyokushaAimMinDistance,5.0
+KyokushaAimDefDistance,9.0
+KyokushaAimGroundRayOfsUp,6.0
+KyokushaAimGroundRayOfsDown,20.0
+KyokushaHeight,15.0
+KyokushaChildFallTime,0.5
+BottleParamData[0]CLOSE,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[1]STRONG,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[2]PENETRATE,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[3]PARALYSE,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[4]POISON,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[5]SLEEP,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[6]BLAST,"{'Gauge': 30.0, 'SetNum': 10}"
+BottleParamData[7]STAMINA,"{'Gauge': 30.0, 'SetNum': 10}"
+QuickShotBottleEffectiveRate,1.0
+CloseBottleRangeRate,0.6
+CloseBottleGravityRate,3.0
+CloseBottleAttackUpRate,1.4
+StrongBottleAttackUpRate,1.3
+SpecialMultiHitFrame,3
+ParalyseBottleAtk,10.0
+PoisonBottleAtk,10.0
+SleepBottleAtk,10.0
+BlastBottleAtk,10.0
+StaminaBottleAtk,10.0
+StaminaBottleStun,5.0
+MaxMiniTsugiyaNum,5
+MiniTsugiyaNum,"[2, 3, 4, 5]"
+MiniTsugiyaInterval,0.4
+MiniTsugiya_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}]"
+MultiLockonNum,4
+MultiLockonParam,"{'MaxDetectionDist': 25.0, 'MaxDetectionDeg': 12.0, 'MaxInScreenDeg': 30.0, 'LockOnDistanceRate': {'Keys': [{'value': 2.5, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1207959552, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}, 'BaseFOV': 33.0, 'NoLockOnTime': 0.0, 'FirstTargetAddTime': 0.6, 'LockOnTime': 0.0, 'LockOnLvUpTime': 1.0, 'TargetAddTime': 1.2, 'TsugiyaLockOnTime': 0.0, 'TsugiyaLockOnLvUpTime': 1.0, 'TsugiyaTargetAddTime': 0.0}"
+MultiLockon_Height,40.0
+MultiLockonHeightRate,"{'Keys': [{'value': 0.5, 'time_type': 0, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}, {'value': 1.0, 'time_type': 1333788672, 'inNormal': 0, 'outNormal': 0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}"
+MultiLockon_DegRange,90.0
+MultiLockonStartRateOfs,0.01
+MultiLockonMaxSpeedOfs,2.0
+MultiLockonStartSpeedOfs,1.0
+ScarBreakDelayTime,3.0
+WeakPointBreakSmallDamageRate,0.5
+ASkill004JudgeTimeRate,1.2
+SkillDodgeJudgeTimeRate,"[1.05, 1.1, 1.15, 1.2, 1.25]"
+MikiriSuccessHATime,1.0
+MikiriSuccessStaminaRecover,30.0
+MikiriAddGauge,5.0
+SuperMikiriSuccessStaminaRecover,100.0
+SuperMikiriAddGauge,20.0
+ArrowGaugeAddSpeed,7.0
+IdleArrowGaugeSpeedRate,1.3
+TsugiyaUseGauge,30.0
+NormalHomingCritical,"{'Critical_Begin_Dist': 3.0, 'Critical_End_Dist': 20.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 0.8, 'After_Critical_AttackRate': 0.7}"
+QuickShotHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 15.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+GoshaHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 15.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+GoshaRapidHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 15.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+JumpHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 30.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+DashClimbHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 20.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+SpecialHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 30.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+TwinHomingCritical,"{'Critical_Begin_Dist': 0.0, 'Critical_End_Dist': 15.0, 'Critical_AttackRate': 1.0, 'Before_Critical_AttackRate': 1.0, 'After_Critical_AttackRate': 0.7}"
+NormalHoming,"{'HitAddTimer': 0.0, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+QuickShotHoming,"{'HitAddTimer': 0.0, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+GoshaHoming,"{'HitAddTimer': 0.5, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+GoshaRapidHoming,"{'HitAddTimer': 1.0, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+JumpHoming,"{'HitAddTimer': 0.5, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+DashClimbHoming,"{'HitAddTimer': 0.5, 'HitAddAtkRate': 0.01, 'BreakRate': 1.0}"
+SpecialHoming,"{'HitAddTimer': -999.0, 'HitAddAtkRate': 0.0, 'BreakRate': 2.0}"
+TwinHoming,"{'HitAddTimer': -999.0, 'HitAddAtkRate': 0.0, 'BreakRate': 2.0}"
+MultiLockonHoming,"{'HitAddTimer': -999.0, 'HitAddAtkRate': 0.0, 'BreakRate': 1.5}"
+MultiLockonDerivation,"{'HitAddTimer': -999.0, 'HitAddAtkRate': 0.0, 'BreakRate': 1.5}"

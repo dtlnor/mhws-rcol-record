@@ -1,0 +1,46 @@
+﻿Param,Value
+GunCommonParam,GameDesign/Player/ActionData/WpGunCommon/GlobalParam/WpGunCommonParam.user
+SlidingParam,"{'MaxTransRate': 3.7, 'MinTransRate': 1.8, 'Time': 3.0, 'TurnSpeed': 30.0}"
+SlidingTurnSpeed,70.0
+AmmoLimit_Normal,5
+AmmoLimit_Penetrate,5
+AmmoLimit_ShotGun,5
+RapidBoost_ModeTime,100.0
+RapidBoost_MoveSpeedRate,0.8
+RapidBoost_CoolTimeAutoSubSpeed,0.8
+RapidBoost_ReserveCoolTimeAutoSubSpeedRate,0.5
+RapidBoost_StealthShotRecover,30.0
+RapidBoostAmmoInfo:app.WeaponGunDef.SHELL_TYPE,"['NORMAL', 'PENETRATE', 'SHOT_GUN', 'GRENADE', 'MORTAR', 'SLASH', 'RYUUGEKI', 'FIRE', 'WATER', 'ELEC', 'ICE', 'DRAGON', 'POISON', 'PARALYSE', 'SLEEP', 'KIJIN', 'KOUKA', 'HEAL', 'STAMINA', 'CAPTURE']"
+RapidBoostAmmoInfo:MaxShootCount,"[5, 3, 2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 3, 2, 2, 1, 1, 1, 3, 1]"
+RapidBoostAmmoInfo:MaxVariableExShootCount,"[2, 2, 2, 1, 1, 1, 0, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1]"
+RapidBoostAmmoInfo:MaxRapidVariableExShootCount,"[5, 2, 3, 2, 0, 2, 0, 3, 3, 3, 3, 2, 2, 2, 2, 1, 1, 1, 2, 1]"
+RapidBoostAmmoInfo:RapidVariableShootInterval,"[0.05, 0.15, 0.3, 0.3, 0.1, 0.2, 0.1, 0.3, 0.3, 0.3, 0.3, 1.0, 0.3, 0.3, 0.3, 0.1, 0.1, 0.1, 0.1, 0.1]"
+RapidBoostAmmoInfo:RapidShootInterval,"[0.01, 0.4, 0.7, 0.5, 0.1, 0.15, 0.1, 0.5, 0.5, 0.5, 0.5, 1.0, 0.5, 0.5, 0.5, 0.1, 0.1, 0.1, 0.1, 0.1]"
+RapidBoostAmmoInfo:RapidShootEndInterval,"[0.4, 0.65, 1.6, 0.9, 0.5, 1.6, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]"
+RapidBoostAmmoInfo:SubEnergy,"[1.1, 2.6, 3.5, 10.0, 0.0, 10.0, 0.0, 2.6, 2.6, 2.6, 2.6, 15.0, 3.0, 5.0, 7.0, 1.5, 1.5, 1.5, 3.0, 3.0]"
+Variable_Shoot_AddEnergy,4.0
+WeakPointInfo:MaxWeakAmmo,3
+WeakPointInfo:Time,"[0.0, 0.0, 0.7, 1.5]"
+WeakPointInfo:AttackRate,"[1.0, 1.0, 1.3, 1.7]"
+WeakPointInfo:ReloadAmmoTime,35.0
+WeakPointInfo:ReserveReloadAmmoTimeSpeedRate,1.0
+WeakAmmo_MaxRange,25.0
+MaxSetBombAmmo,1
+SetBombGeneratePosOfs,"{'x': 0.0, 'y': 0.25, 'z': 0.0, 'pad': 0.0}"
+SetBombTargetPosOfs,"{'x': 0.0, 'y': -1.0, 'z': 0.0, 'pad': 0.0}"
+ReloadSetBombAmmoTime,30.0
+ReserveReloadSetBombAmmoTimeSpeedRate,1.0
+SetBombAttackRate,"[1.0, 1.0, 1.23, 1.88]"
+MaxCatchAmmo,1
+ReloadCatchAmmoTime,100.0
+ReserveReloadCatchAmmoTimeSpeedRate,1.0
+CatchAmmoLifeTime,25.0
+CatchAmmoBlastCount,"[1, 2, 3]"
+CatchAmmoSlashBlastLifeTime,"[1.0, 1.0, 1.0]"
+CatchAmmoBlastTime,1.3
+CatchAmmoBlastGraceTime,2.0
+CatchAmmoLv1ToLv2HitCount,11
+CatchAmmoLv2ToLv3HitCount,22
+CatchAmmoOffsetPos,"{'x': -0.25, 'y': 0.25, 'pad1': 0.0, 'pad2': 0.0}"
+CatchAmmoOffsetRot,"{'x': -30.0, 'y': 30.0, 'pad1': 0.0, 'pad2': 0.0}"
+EmRideFinishWeakAmmo,2.0

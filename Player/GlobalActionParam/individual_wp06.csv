@@ -1,0 +1,59 @@
+﻿Param,Value
+MaxStepCount,3
+RushAdd_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.35}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
+RushLevelCount,1.4
+SlidingRushLevelCount,1.0
+RushSpeedMotRate,"[1.1, 1.15]"
+RushSpeedRate,"[1.1, 1.25]"
+SlidingRushSpeedMotRate,"[1.0, 1.3]"
+SlidingRushSpeedRate,"[1.0, 1.3]"
+RushStepLeverAngleMin,60.0
+RushStepLeverAngleMax,150.0
+RushTurnSpeed,"[70.0, 35.0]"
+RushAimTurnSpeed,"[110.0, 70.0]"
+RushWalkTurnAngleMin,45.0
+RushWalkTurnAngleMax,190.0
+RushWallHitAngle,50.0
+RushWallHitDist,0.7
+MaxFastRushTime,0.3
+MaxPowerRushTime,0.3
+ClimbRushJump,"{'JumpVelocity': {'x': 0.0, 'y': 5.0, 'z': 3.0, 'pad': 0.0}, 'Gravity': 9.0, 'GravityRate': 1.0}"
+GuardTurnTime,0.5
+GuardTurnCancelAngle,20.0
+PowerGuardDegree,360.0
+PowerGuardPower_S,39.0
+PowerGuardPower_M,49.0
+PowerGuardDamageReduceRate_S,0.1
+PowerGuardDamageReduceRate_M,0.2
+PowerGuardDamageReduceRate_L,0.3
+PowerGuard_MaxReactCount,3
+PowerGuard_ReactCountBuffRate,"[1.1, 1.3, 1.7]"
+PowerGuard_VersusGuardPower_S,0
+PowerGuard_VersusGuardPower_M,1
+PowerGuard_VersusGuardPower_L,2
+MaxGuardToDir4GuardTime,0.4
+GuardDashStepS,2.23
+GuardDashStepM,2.53
+GuardDashStepL,2.9
+GuardDashGuardPowerAdd,10
+SlidingRushParam,"{'MaxTransRate': 3.7, 'MinTransRate': 1.2, 'Time': 3.0, 'TurnSpeed': 30.0}"
+GuardSlidingParam,"{'MaxTransRate': 3.7, 'MinTransRate': 1.2, 'Time': 3.0, 'TurnSpeed': 10.0}"
+SlidingRushTurnSpeed,60.0
+GuardSlidingTurnSpeed,60.0
+InertialFriction,15.0
+InertialKeepTime,0.2
+RushToGuardInertialFriction,70.0
+RushToGuardInertialKeepTime,0.0
+SlidingRushToRushInertialFriction,200.0
+SlidingRushToRushInertialKeepTime,0.0
+MaxGuardToFinishStingerChargeLvTime,0.4
+FinishStingerChargeTimes,"[0.8, 2.0, 3.6]"
+FinishStingerMaxChargeHoldTime,5.0
+FinishStingerChargeAttackRate,"[1.2, 1.4, 1.7]"
+FinishStingerChargeStartLv_Neutral,0
+FinishStingerChargeStartLv_Combo_1,1
+FinishStingerChargeStartLv_Combo_2,2
+FinishStingerChargeStartLv_Combo_3,3
+FinishStingerChargeStartLv_ComboSkip,2
+RideAttack_FinishTime,3.0
+RideDismountStrongAttack_Time,3.0
