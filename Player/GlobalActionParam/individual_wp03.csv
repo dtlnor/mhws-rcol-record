@@ -13,7 +13,7 @@ RenkiCost:SlidingKijinSlash,0.2
 RenkiCost:KijinStub,0.1
 RenkiAutoRecoverIai,"{'RecoverTime': 15.0, 'RecoverSpdTime': 15.0}"
 AuraTime,"{'WhiteTime': 195.0, 'YellowTime': 135.0, 'RedTime': 45.0}"
-AuraAtkRate,"{'WhiteAtkRate': 1.025, 'YellowAtkRate': 1.05, 'RedAtkRate': 1.1}"
+AuraAtkRate,"{'WhiteAtkRate': 1.05, 'YellowAtkRate': 1.075, 'RedAtkRate': 1.1}"
 AuraStopTime,5.0
 AuraReduceReserveRate,1.0
 MikiriSuccessAttackRate,1.3

@@ -13,7 +13,7 @@ PenetrateBullet_CustomAttackRate,"[1.0, 1.1, 1.2]"
 ShotgunBullet_CustomAttackRate,"[1.0, 1.1, 1.2]"
 Energy_AutoRecoverSpeed,1.9
 Energy_AutoRecoverReserveRate,0.2
-Energy_ShotGunShootRecover,1.0
+Energy_ShotGunShootRecover,2.4
 Energy_CustomEfficiency_Fast,1.1
 Energy_CustomEfficiency_Slow,0.9
 Energy_StealthShotRecover,30.0

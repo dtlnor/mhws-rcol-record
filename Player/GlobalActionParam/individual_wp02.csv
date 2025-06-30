@@ -3,6 +3,8 @@ AimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.
 KijinOff_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 0.25}, {'JointHash': {'Hash': 1345121450}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 2725057162}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.0}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
 AimKijinOn_WorldBlendParam,"{'JointData': [{'JointHash': {'Hash': 935285574}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 3946539076}, 'BlendRate': 0.6}, {'JointHash': {'Hash': 3276980779}, 'BlendRate': 0.25}, {'JointHash': {'Hash': 1345121450}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 1913148385}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 2725057162}, 'BlendRate': 1.0}, {'JointHash': {'Hash': 767461792}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1951860438}, 'BlendRate': 0.7}, {'JointHash': {'Hash': 1091167843}, 'BlendRate': 0.2}, {'JointHash': {'Hash': 3992101857}, 'BlendRate': 0.0}, {'JointHash': {'Hash': 1549972489}, 'BlendRate': 0.0}], 'FadeOutSpeed': 1.0}"
 KijinTurnSpeed,600.0
+KijinMoveSpeedRate,1.11
+KijinMoveDistRate,1.11
 KijinEnhancementEffectChangeTime,0.15
 KijinEnhancemenetReduceTime,90.0
 KijinEnhancemenetReduceReserveRate,1.0
@@ -32,8 +34,8 @@ ConstSpinStartDistMax,10.0
 ASkill004JudgeTimeRate,1.2
 SkillDodgeJudgeTimeRate,"[1.05, 1.1, 1.15, 1.2, 1.25]"
 JustSuccessHATime,0.5
-JustSuccessBuffTime,24.0
+JustSuccessBuffTime,20.0
 BuffJustDodgeRecover,"{'Recover1': 8.0, 'Recover2': 4.0, 'RecoverMin': 0.0}"
-JustSuccessAttackRate,1.2
-JustSuccessStatusRate,1.2
-BuffEffectChangeTime,0.15
+JustSuccessAttackRate,1.15
+JustSuccessStatusRate,1.3
+BuffEffectChangeTime,0.18

@@ -40,12 +40,16 @@ SwordJustCounterAddAwakeGauge,10.0
 SwordCounterHyperArmorDamageReduceRate,0.3
 SwordJustCounterHyperArmorDamageReduceRate,0.1
 Bin_Power_AttackRate,1.17
+Bin_Power_AwakeShellElementRate,0.35
+Bin_Power_DischargeSwitchShellElementRate,0.35
 Bin_Power_AwakeShellConditionRate,0.35
 Bin_Power_DischargeSwitchShellConditionRate,0.35
 Bin_Power_ShellEpvTagHashName,{'Hash': 2231135434}
 Bin_Element_ElementRate,1.45
-Bin_Element_AwakeShellElementRate,0.35
-Bin_Element_DischargeSwitchShellElementRate,0.35
+Bin_Element_AwakeShellElementRate,1.0
+Bin_Element_DischargeSwitchShellElementRate,0.8
+Bin_Element_AwakeShellConditionRate,0.35
+Bin_Element_DischargeSwitchShellConditionRate,0.35
 Bin_Elem_Fire_ShellEpvTagHashName,{'Hash': 2589505633}
 Bin_Elem_Water_ShellEpvTagHashName,{'Hash': 1294511772}
 Bin_Elem_Elec_ShellEpvTagHashName,{'Hash': 2223217119}
