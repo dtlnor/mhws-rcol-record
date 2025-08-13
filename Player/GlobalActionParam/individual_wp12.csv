@@ -38,13 +38,13 @@ ParryBulletColExtendTime,0.1
 ParryHitEffectWaitTime,0.2
 ParryHitMotSpeedRate,2.0
 ParryBulletRange,7.0
-ParryBullet_CustomAttackRate,"[1.0, 1.1, 1.2]"
+ParryBullet_CustomAttackRate,"[1.0, 1.15, 1.3]"
 EnergyGrenadeBullet_BasicData,{'MinUseEnergy': 20.0}
 EnergyGrenadeBullet_ScatterList,"[{'x': 2.0, 'y': -22.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -2.0, 'y': -22.0, 'pad1': 0.0, 'pad2': 0.0}]"
 EnergyGrenadeBullet_SpreadRange,8.0
 EnergyGrenadeBullet_MaxRange,15.0
 EnergyGrenadeBullet_SpreadRandomY,3.0
-EnergyGrenadeBullet_CustomAttackRate,"[1.0, 1.1, 1.2]"
+EnergyGrenadeBullet_CustomAttackRate,"[1.0, 1.15, 1.3]"
 WeakPointSnipeBullet_ChargeInfo:Time,"[0.0, 0.45, 1.0, 1.7]"
 WeakPointSnipeBullet_ChargeInfo:EnergyCost,"[0.0, 15.0, 15.0, 15.0]"
 WeakPointSnipeBullet_ChargeInfo:OverheatTime,-1.0

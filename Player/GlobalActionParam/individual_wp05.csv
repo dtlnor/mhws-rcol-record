@@ -47,3 +47,5 @@ MusicGameJustTimingRate,"{'x': 0.75, 'y': 1.35, 'pad1': 0.0, 'pad2': 0.0}"
 MusicGameFullCombAttackRate,1.15
 MusicGameHardFullCombAttackRate,1.3
 MusicGameLagTime,0.005
+CounterHyperArmorDamageReduceRate,0.2
+DodgeAfterAimShortAttackEnableTime,0.0
