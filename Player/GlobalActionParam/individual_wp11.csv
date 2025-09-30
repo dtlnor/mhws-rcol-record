@@ -83,10 +83,10 @@ WeakPointBreakSmallDamageRate,0.5
 ASkill004JudgeTimeRate,1.2
 SkillDodgeJudgeTimeRate,"[1.05, 1.1, 1.15, 1.2, 1.25]"
 MikiriSuccessHATime,1.0
-MikiriSuccessStaminaRecover,30.0
-MikiriAddGauge,5.0
-SuperMikiriSuccessStaminaRecover,100.0
-SuperMikiriAddGauge,20.0
+MikiriSuccessStaminaRecover,60.0
+MikiriAddGauge,10.0
+SuperMikiriSuccessStaminaRecover,130.0
+SuperMikiriAddGauge,25.0
 ArrowGaugeAddSpeed,7.0
 IdleArrowGaugeSpeedRate,1.3
 TsugiyaUseGauge,30.0
