@@ -58,7 +58,7 @@ QuickShotBottleEffectiveRate,1.0
 CloseBottleRangeRate,0.6
 CloseBottleGravityRate,3.0
 CloseBottleAttackUpRate,1.4
-StrongBottleAttackUpRate,1.3
+StrongBottleAttackUpRate,1.35
 SpecialMultiHitFrame,3
 ParalyseBottleAtk,10.0
 PoisonBottleAtk,10.0
@@ -71,6 +71,7 @@ MiniTsugiyaNum,"[2, 3, 4, 5]"
 MiniTsugiyaInterval,0.4
 MiniTsugiya_ScatterList,"[{'x': 0.0, 'y': 0.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': 0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': -0.5, 'pad1': 0.0, 'pad2': 0.0}, {'x': -0.5, 'y': 0.5, 'pad1': 0.0, 'pad2': 0.0}]"
 MultiLockonNum,4
+SuperLargeBossCheckDist,50.0
 MultiLockonParam,"{'MaxDetectionDist': 25.0, 'MaxDetectionDeg': 12.0, 'MaxInScreenDeg': 30.0, 'LockOnDistanceRate': {'Keys': [{'value': 2.5, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 8.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}, 'BaseFOV': 33.0, 'NoLockOnTime': 0.0, 'FirstTargetAddTime': 0.6, 'LockOnTime': 0.0, 'LockOnLvUpTime': 1.0, 'TargetAddTime': 1.2, 'TsugiyaLockOnTime': 0.0, 'TsugiyaLockOnLvUpTime': 1.0, 'TsugiyaTargetAddTime': 0.0}"
 MultiLockon_Height,40.0
 MultiLockonHeightRate,"{'Keys': [{'value': 0.5, 'Time': 0.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}, {'value': 1.0, 'Time': 30.0, 'CurveType': 0, 'InNormalX': 0.0, 'InNormalY': 0.0, 'OutNormalX': 0.0, 'OutNormalY': 0.0}], 'MinValue': 0.0, 'MaxValue': 5.0, 'MinTime': 0.0, 'MaxTime': 30.0, 'LoopCount': 0, 'LoopWrapNo': 2}"

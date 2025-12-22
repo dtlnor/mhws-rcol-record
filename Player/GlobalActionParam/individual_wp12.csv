@@ -5,6 +5,7 @@ SlidingTurnSpeed,60.0
 AmmoLimit_Normal,7
 AmmoLimit_Penetrate,3
 AmmoLimit_ShotGun,5
+SubMotionBlendRateMoveSpeed_ShootHight,0.3
 MoveSpeedRate,1.0
 AimMoveSpeedRate,1.0
 CreepAimAdjustParam,"{'InterpolateSpeed': 5.0, 'FadeInSpeed': 1.0, 'FadeOutSpeed': 1.0, 'TargetFollowDamping': 0.5, 'TargetFollowDampingTimeScale': 10.0, 'UpperArmRate': 1.0, 'ShoulderRate': 0.8, 'Spine2Rate': 0.6, 'Spine1Rate': 0.4, 'Spine0Rate': 0.2, 'CogRate': 0.0, 'HipRate': 0.0, 'LFootRate': 0.0, 'RFootRate': 0.0, 'ConstMoveDegX': 0.0, 'ConstMoveDegY': 0.0, 'LimitY': 65.0, 'LimitUpX': 30.0, 'LimitDownX': 33.0}"
@@ -21,13 +22,13 @@ EnergyParts_EmitColor,"{'R': 255, 'G': 0, 'B': 0, 'A': 255}"
 GatlingBullet_BasicData,{'MinUseEnergy': 2.5}
 GatlingBullet_ShootInterval,0.18
 GatlingHitAttackRate,"[1.0, 1.0, 1.2, 1.2, 1.44, 1.44, 1.728, 1.728, 2.0736, 2.0736]"
-Gatling_CustomAttackRate,"[1.0, 1.1, 1.2]"
+Gatling_CustomAttackRate,"[1.0, 1.15, 1.3]"
 EnergyLaserBullet_BasicData,{'MinUseEnergy': 20.0}
 EnergyLaserMaxRange,3.0
 EnergyLaserMaxUIRange,40.0
 EnergyLaserColNum,3
-EnergyLaser_MultiHitCount,5
-EnergyLaser_CustomAttackRate,"[1.0, 1.1, 1.2]"
+EnergyLaser_MultiHitCount,7
+EnergyLaser_CustomAttackRate,"[1.0, 1.15, 1.3]"
 ParryBullet_BasicData,{'MinUseEnergy': 15.0}
 ParryBullet_ChargeInfo:Time,"[0.0, 0.0, 0.9, 2.0]"
 ParryBullet_ChargeInfo:EnergyCost,"[15.0, 15.0, 15.0, 15.0]"
@@ -39,7 +40,8 @@ ParryHitEffectWaitTime,0.2
 ParryHitMotSpeedRate,2.0
 ParryBulletRange,7.0
 ParryBullet_CustomAttackRate,"[1.0, 1.15, 1.3]"
-EnergyGrenadeBullet_BasicData,{'MinUseEnergy': 20.0}
+EnergyParryHitRecoverData,"[{'HitRecover': 10.0, 'SuccessRecover': 25.0}, {'HitRecover': 10.0, 'SuccessRecover': 25.0}, {'HitRecover': 15.0, 'SuccessRecover': 30.0}, {'HitRecover': 20.0, 'SuccessRecover': 35.0}]"
+EnergyGrenadeBullet_BasicData,{'MinUseEnergy': 15.0}
 EnergyGrenadeBullet_ScatterList,"[{'x': 2.0, 'y': -22.0, 'pad1': 0.0, 'pad2': 0.0}, {'x': -2.0, 'y': -22.0, 'pad1': 0.0, 'pad2': 0.0}]"
 EnergyGrenadeBullet_SpreadRange,8.0
 EnergyGrenadeBullet_MaxRange,15.0
@@ -48,14 +50,15 @@ EnergyGrenadeBullet_CustomAttackRate,"[1.0, 1.15, 1.3]"
 WeakPointSnipeBullet_ChargeInfo:Time,"[0.0, 0.45, 1.0, 1.7]"
 WeakPointSnipeBullet_ChargeInfo:EnergyCost,"[0.0, 15.0, 15.0, 15.0]"
 WeakPointSnipeBullet_ChargeInfo:OverheatTime,-1.0
-WeakPointSnipeBullet_ChargeInfo:AttackRate,"[1.0, 1.3, 1.6, 2.1]"
+WeakPointSnipeBullet_ChargeInfo:AttackRate,"[1.0, 1.5, 2.0, 2.7]"
 WeakPointSnipeBullet_MaxRange,42.0
 WeakPointSnipeBullet_MultiHitCount,5
 WeakPointSnipeBullet_MultiHitTimer,0.02
-WeakPointSnipe_CustomAttackRate,"[1.0, 1.1, 1.2]"
+WeakPointSnipe_CustomAttackRate,"[1.0, 1.15, 1.3]"
 WeakPointSnipeBullet_MaxBulletNum,3
 WeakPointSnipeBullet_AddBulletTime,23.0
 WeakPointSnipeBullet_ReserveTimerRate,1.0
+WeakPointSnipeBulletHitRecoverData,"[15.0, 40.0, 45.0, 50.0]"
 RyuugekiChargeTimer,1.5
 RyuugekiColExtendTime,0.1
 Ryuugeki_Range,6.5

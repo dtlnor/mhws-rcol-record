@@ -35,7 +35,7 @@ SwordEnergyPointAdd_TechGuardM,9.0
 SwordEnergyPointAdd_GuardLaser,3.0
 AxeEnhance_Time,120.0
 AxeEnhance_ReserveTimeRate,1.0
-AxeSaw_HitStopTime,0.55
+AxeSaw_HitStopTime,0.35
 AxeSaw_HitStopNoHitCheckTime,0.2
 AxeSaw_HitStopSpeedRate,0.04
 AxeSaw_HitStopSpeedRateFly,0.2

@@ -55,8 +55,8 @@ Bin_Elem_Water_ShellEpvTagHashName,{'Hash': 1294511772}
 Bin_Elem_Elec_ShellEpvTagHashName,{'Hash': 2223217119}
 Bin_Elem_Ice_ShellEpvTagHashName,{'Hash': 1663946602}
 Bin_Elem_Dragon_ShellEpvTagHashName,{'Hash': 2158828410}
-Bin_Elem_Sleep_ShellEpvTagHashName,{'Hash': 0}
-Bin_Elem_Blast_ShellEpvTagHashName,{'Hash': 0}
+Bin_Elem_Sleep_ShellEpvTagHashName,{'Hash': 458844337}
+Bin_Elem_Blast_ShellEpvTagHashName,{'Hash': 2358435980}
 Bin_Stamina_StunDamage,5.0
 Bin_Stamina_DischargeStaminaRate,0.3
 Bin_Stamina_DischargeStunRate,0.3
